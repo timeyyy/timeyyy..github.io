@@ -1,0 +1,15 @@
+---
+title: "My Vlogs"
+date: 2021-02-26T11:35:22+03:00
+author:
+  name: "Tim Eichler"
+
+draft: true
+toc: false
+type: vlog
+images:
+---
+#Introduction
+I decided to start learning Go in March 2017.
+
+Follow my journey through this new blog.

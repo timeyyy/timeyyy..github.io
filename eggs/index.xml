@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Eggs on Tim Eichler&#39;s Blog</title>
+        <link>https://timeyyy.github.io/eggs/</link>
+        <description>Recent content in Eggs on Tim Eichler&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 26 Feb 2021 10:32:06 +0300</lastBuildDate>
+        <atom:link href="https://timeyyy.github.io/eggs/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Tech Conference</title>
+            <link>https://timeyyy.github.io/eggs/ted-talk/</link>
+            <pubDate>Fri, 26 Feb 2021 10:32:06 +0300</pubDate>
+            
+            <guid>https://timeyyy.github.io/eggs/ted-talk/</guid>
+            <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
+            <content type="html"><![CDATA[<h2 id="our-first-team-meeting">Our First Team Meeting</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/xUhiNZk0niU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Here&rsquo;s an example:</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>First Post</title>
+            <link>https://timeyyy.github.io/eggs/ted-talk-copy/</link>
+            <pubDate>Wed, 26 Feb 2020 10:32:06 +0300</pubDate>
+            
+            <guid>https://timeyyy.github.io/eggs/ted-talk-copy/</guid>
+            <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
+            <content type="html"><![CDATA[<h2 id="our-first-team-meeting">Our First Team Meeting</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/qJIfavKyYvU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Here&rsquo;s an example:</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

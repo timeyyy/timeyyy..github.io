@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Vlogs on Tim Eichler&#39;s Blog</title>
+        <link>https://timeyyy.github.io/vlogs/</link>
+        <description>Recent content in Vlogs on Tim Eichler&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 16 Feb 2021 10:32:06 +0300</lastBuildDate>
+        <atom:link href="https://timeyyy.github.io/vlogs/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Who am I? Why am I here?</title>
+            <link>https://timeyyy.github.io/vlogs/12/</link>
+            <pubDate>Tue, 16 Feb 2021 10:32:06 +0300</pubDate>
+            
+            <guid>https://timeyyy.github.io/vlogs/12/</guid>
+            <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
+            <content type="html"><![CDATA[<h2 id="our-first-team-meeting">Our First Team Meeting</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Sg3U6is49Uo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Here&rsquo;s an example:</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>The Weeknd</title>
+            <link>https://timeyyy.github.io/vlogs/14/</link>
+            <pubDate>Tue, 26 Feb 2019 10:32:06 +0300</pubDate>
+            
+            <guid>https://timeyyy.github.io/vlogs/14/</guid>
+            <description>Our First Team Meeting   Here&amp;rsquo;s an example:
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</description>
+            <content type="html"><![CDATA[<h2 id="our-first-team-meeting">Our First Team Meeting</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/qJIfavKyYvU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Here&rsquo;s an example:</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dictum felis eu pede mollis pretium. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
